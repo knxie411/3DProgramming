@@ -44,8 +44,6 @@ Vertex transformedCircle[360];  // 화면에 그려질 원
 Transform transform;  //world 행렬이 될 transform
 
 //<문제>////////전역변수 쓰는곳////////////////////////////////////////////////////////////
-
-
 float moveing;
 float turing;
 float tiqkf;
@@ -201,6 +199,7 @@ void Update()
             );
 
             tiqkf -= 0.01f;
+
             if (tiqkf <= 0.7f)
             {
                 isMaxScale = true;
