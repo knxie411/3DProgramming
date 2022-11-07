@@ -1,0 +1,4 @@
+﻿  Main.cpp
+S:\CppHomeWork\3DProgramming\10Week_Matrix\10Week_Matrix\Main.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+S:\CppHomeWork\3DProgramming\10Week_Matrix\10Week_Matrix\Main.cpp(9,29): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  10Week_Matrix.vcxproj -> S:\CppHomeWork\3DProgramming\10Week_Matrix\x64\Debug\10Week_Matrix.exe
